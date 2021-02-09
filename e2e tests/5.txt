@@ -1,0 +1,1 @@
+Bumping into walls. Moves shouldn't be included in the final list of moves.

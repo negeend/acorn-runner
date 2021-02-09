@@ -1,0 +1,1 @@
+Walking off the board from the starting cell, should act as a wall.

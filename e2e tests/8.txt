@@ -1,0 +1,1 @@
+Walking into a wall while on a teleport pad (shouldn't re-trigger pad.)
