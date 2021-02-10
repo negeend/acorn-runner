@@ -2,7 +2,7 @@
 
 A game program coded in Python 3 with a game and solver component
 
-Game outline:
+### Game outline:
 
 You are an acorn, heir to the Honourable Furious Forest Throne. Your beauty shines like no other, reflecting the colourful solar rays into the eyes of all spectators. But instead of your usual coat of beautiful acorn shell, you find yourself covered in ash. Not only that, but you've fallen great depths from the heights of the towering trees of the Honourable Furious Forest that once cared for you.
 
